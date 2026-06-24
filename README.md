@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ankitasri20/DSA/tree/master/0018-4sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ankitasri20/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ankitasri20/DSA/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ankitasri20/DSA/tree/master/0018-4sum) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankitasri20/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankitasri20/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
