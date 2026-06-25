@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ankitasri20/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitasri20/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
 ## Union-Find
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
 ## Heap (Priority Queue)
 |  |
