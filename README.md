@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/ankitasri20/DSA/tree/master/0724-find-pivot-index) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ankitasri20/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitasri20/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ankitasri20/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ankitasri20/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
