@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/ankitasri20/DSA/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/ankitasri20/DSA/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/ankitasri20/DSA/tree/master/0185-department-top-three-salaries) |
+| [0595-big-countries](https://github.com/ankitasri20/DSA/tree/master/0595-big-countries) |
 | [1527-patients-with-a-condition](https://github.com/ankitasri20/DSA/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/ankitasri20/DSA/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ankitasri20/DSA/tree/master/1683-invalid-tweets) |
