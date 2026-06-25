@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ankitasri20/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ankitasri20/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ankitasri20/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ankitasri20/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ankitasri20/DSA/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitasri20/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ankitasri20/DSA/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ankitasri20/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
