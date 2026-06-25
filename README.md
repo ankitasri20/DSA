@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ankitasri20/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ankitasri20/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ankitasri20/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ankitasri20/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ankitasri20/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ankitasri20/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ankitasri20/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankitasri20/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ankitasri20/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ankitasri20/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ankitasri20/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ankitasri20/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
