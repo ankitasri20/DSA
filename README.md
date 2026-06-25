@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ankitasri20/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ankitasri20/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ankitasri20/DSA/tree/master/0724-find-pivot-index) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitasri20/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ankitasri20/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
