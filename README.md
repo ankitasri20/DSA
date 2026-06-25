@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
 ## Union-Find
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankitasri20/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
 ## Heap (Priority Queue)
 |  |
@@ -181,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
