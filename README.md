@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/ankitasri20/DSA/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/ankitasri20/DSA/tree/master/0185-department-top-three-salaries) |
 | [1527-patients-with-a-condition](https://github.com/ankitasri20/DSA/tree/master/1527-patients-with-a-condition) |
+| [1667-fix-names-in-a-table](https://github.com/ankitasri20/DSA/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ankitasri20/DSA/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/ankitasri20/DSA/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ankitasri20/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
