@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ankitasri20/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankitasri20/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitasri20/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ankitasri20/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/ankitasri20/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitasri20/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/ankitasri20/DSA/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ankitasri20/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ankitasri20/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
