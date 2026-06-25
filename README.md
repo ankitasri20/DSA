@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/ankitasri20/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitasri20/DSA/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitasri20/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ankitasri20/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ankitasri20/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ankitasri20/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ankitasri20/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
