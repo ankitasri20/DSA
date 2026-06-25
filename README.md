@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankitasri20/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ankitasri20/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/ankitasri20/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankitasri20/DSA/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ankitasri20/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitasri20/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ankitasri20/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ankitasri20/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ankitasri20/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
