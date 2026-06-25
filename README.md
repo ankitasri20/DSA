@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ankitasri20/DSA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/ankitasri20/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ankitasri20/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitasri20/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ankitasri20/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ankitasri20/DSA/tree/master/0169-majority-element) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ankitasri20/DSA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ankitasri20/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ankitasri20/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ankitasri20/DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankitasri20/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
