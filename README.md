@@ -165,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/ankitasri20/DSA/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/ankitasri20/DSA/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/ankitasri20/DSA/tree/master/1729-find-followers-count) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/ankitasri20/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
