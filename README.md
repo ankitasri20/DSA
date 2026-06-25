@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankitasri20/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ankitasri20/DSA/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitasri20/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitasri20/DSA/tree/master/0704-binary-search) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ankitasri20/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankitasri20/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankitasri20/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankitasri20/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
