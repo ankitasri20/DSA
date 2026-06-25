@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitasri20/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/ankitasri20/DSA/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
