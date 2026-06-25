@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ankitasri20/DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankitasri20/DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ankitasri20/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ankitasri20/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankitasri20/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitasri20/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ankitasri20/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ankitasri20/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ankitasri20/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ankitasri20/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitasri20/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
