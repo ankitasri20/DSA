@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ankitasri20/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ankitasri20/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ankitasri20/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitasri20/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ankitasri20/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankitasri20/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ankitasri20/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/ankitasri20/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
