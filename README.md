@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ankitasri20/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ankitasri20/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ankitasri20/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitasri20/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ankitasri20/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/ankitasri20/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ankitasri20/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ankitasri20/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitasri20/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/ankitasri20/DSA/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ankitasri20/DSA/tree/master/1051-height-checker) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ankitasri20/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
