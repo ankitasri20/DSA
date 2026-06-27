@@ -20,7 +20,7 @@ public:
         if(l1 <=r2 && l2 <=r1)
         {
             if(n%2 == 1) return max(l1 , l2);
-            return double(max(l1,l2) + min(r1,r2)) / 2.0;
+            return (max(l1,l2) + min(r1,r2)) / 2.0;
         }
         else if (l1 >r2) high= mid1-1;
         else low = mid1 +1;
@@ -29,3 +29,7 @@ public:
 
     }
 };
+
+// optimal solution through binary search 
+//section of the array like semetry and check the element first check for valid semetry if arr 1 first half is greater than arr 2 second half then same for arr2 then satifide arr is vbalid semetry.
+//  if l1  > r1 then high = mid-1 l2 > r2 low = mid +1
