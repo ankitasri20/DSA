@@ -24,3 +24,7 @@ public:
         return -1;
     }
 };
+
+// optimal solution tc= log(n) 
+// array is sorted  but withg distinct element so check the mid and then identify the left half and right half  check which half in not containing target that on eelkement that sorted that not contain the target and then discard the part.
+ 
