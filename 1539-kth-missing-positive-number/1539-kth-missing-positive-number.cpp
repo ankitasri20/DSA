@@ -22,3 +22,7 @@ public:
 
     }
 };
+
+//given array is missing two many element and we have to find the kyh missing element
+//add a new array that contain all the element that given is miss add all element till k becouse you want only kth element 
+//after get element till kth  return k-1 becouse k start fromn 0
