@@ -15,3 +15,5 @@ public:
 
     }
 };
+
+// i have to find two near by index then the kth missing lie between
