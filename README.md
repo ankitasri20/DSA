@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ankitasri20/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankitasri20/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ankitasri20/DSA/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ankitasri20/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Sliding Window
