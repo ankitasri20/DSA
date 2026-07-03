@@ -7,21 +7,14 @@ public:
         for(int i = 0; i <= n - m; i++)
         {
             int j;
-
             for(j = 0; j < m; j++)
             {
-                if(haystack[i + j] != needle[j])
-                {
-                    break;
-                }
+                if(haystack[i + j] != needle[j]) break;
             }
-
-            if(j == m)
-            {
-                return i;
-            }
+            if(j == m) return i;
         }
-
         return -1;
     }
 };
+
+// not optimal solution the tc is O(n*m) = O(n^2);
