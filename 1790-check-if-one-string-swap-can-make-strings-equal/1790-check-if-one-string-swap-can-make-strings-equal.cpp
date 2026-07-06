@@ -21,3 +21,6 @@ public:
         return false;
     }
 };
+
+
+//0(n2) solution 
