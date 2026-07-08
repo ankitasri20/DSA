@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitasri20/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ankitasri20/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/ankitasri20/DSA/tree/master/2951-find-the-peaks) |
+| [3467-transform-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ankitasri20/DSA/tree/master/1051-height-checker) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitasri20/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankitasri20/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
+| [3467-transform-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
