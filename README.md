@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitasri20/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ankitasri20/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2951-find-the-peaks](https://github.com/ankitasri20/DSA/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitasri20/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/ankitasri20/DSA/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
