@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ankitasri20/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ankitasri20/DSA/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/ankitasri20/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitasri20/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitasri20/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ankitasri20/DSA/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ankitasri20/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitasri20/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
