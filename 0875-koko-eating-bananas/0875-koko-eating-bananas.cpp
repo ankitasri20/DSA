@@ -7,7 +7,6 @@ public:
         {
             maxx = max(maxx , piles[i]);
         }
-        // return maxx;
         int low = 1, high = maxx;
         while(low <= high)
         {
@@ -17,13 +16,14 @@ public:
            {
             totalH += (piles[i] + mid - 1) / mid;
            }
-            if(totalH <= h) 
-            {
-                high = mid - 1;
-            }
+            if(totalH <= h) high = mid - 1;
             else low = mid + 1;
-
         }
         return low;
     }
 };
+
+
+// bs on answer - find the range first  the ans  will lie.
+// bs for the range not the actual array 
+// tc = O(n × log(maxPile)), sc = 0(1);
