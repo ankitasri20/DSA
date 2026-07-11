@@ -36,3 +36,9 @@ public:
         return true;
     }
 };
+
+
+// we have to return only 5 or 10 so track record of only 5 and 10
+//when arr = 5 store the value of 5 how many time it come  five++
+// when arr = 10 store the valiue of ten how many time its come 10++ and also return the customer 5
+// when the value is 20 we have to return either 10 + 5 or  5 + 5 + 5
