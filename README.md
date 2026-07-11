@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ankitasri20/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ankitasri20/DSA/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/ankitasri20/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ankitasri20/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -332,5 +333,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/ankitasri20/DSA/tree/master/0860-lemonade-change) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ankitasri20/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
