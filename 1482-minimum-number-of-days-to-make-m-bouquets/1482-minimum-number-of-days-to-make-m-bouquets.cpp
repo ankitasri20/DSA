@@ -3,7 +3,7 @@ public:
     int minDays(vector<int>& bloomDay, int m, int k) 
     {
         int n = bloomDay.size();
-       if(n<(1LL*m*k)) return -1;
+        if(n<(1LL*m*k)) return -1;
         int  maxx = INT_MIN;
         int mini = INT_MAX;        
         for(int i = 0; i<n; i++)
@@ -26,20 +26,16 @@ public:
                         b += (count / k);
                         count = 0;
                     }
-            
                 }
                 b += count /k;
-                if(b >= m)
-                {
-                    high = mid -1;
-                }
-                else
-                {
-                    low = mid + 1;
-                }
-
-                // return low;
+                if(b >= m) high = mid -1;
+                else low = mid + 1;
             }
         return low;
     }
 };
+
+// BS on answer-- find the range that lie between min and max
+// check for mid if flower bloomed and bouquets are completly done
+// for mid ans is not exist then for sure the  an sis not exist for the range between low and mid so low is pointing to mid +1 
+// if ans is exist for sure the ans is not lie in between the high to mid then chenge low to mid -1 (becouse we want min answer);
