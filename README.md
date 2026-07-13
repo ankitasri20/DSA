@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/ankitasri20/DSA/tree/master/2951-find-the-peaks) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ankitasri20/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3467-transform-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/3467-transform-array-by-parity) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ankitasri20/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/ankitasri20/DSA/tree/master/2652-sum-multiples) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ankitasri20/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitasri20/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ankitasri20/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ankitasri20/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
