@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ankitasri20/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2651-calculate-delayed-arrival-time](https://github.com/ankitasri20/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/ankitasri20/DSA/tree/master/2652-sum-multiples) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ankitasri20/DSA/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitasri20/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
