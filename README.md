@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ankitasri20/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ankitasri20/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ankitasri20/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankitasri20/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitasri20/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankitasri20/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitasri20/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ankitasri20/DSA/tree/master/0645-set-mismatch) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ankitasri20/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankitasri20/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankitasri20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankitasri20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ankitasri20/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankitasri20/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
