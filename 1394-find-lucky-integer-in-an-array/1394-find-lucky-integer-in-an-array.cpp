@@ -21,3 +21,5 @@ public:
 
 // for the lucky number the frequency in the array equal to its value.
 // so map it and store the frequenct and key then for check frequency and key are equal if equal then exist otherwaise not exist
+// Time Complexity: O(n log n)
+// Space Complexity: O(n)
