@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ankitasri20/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3467-transform-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ankitasri20/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ankitasri20/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/ankitasri20/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ankitasri20/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/ankitasri20/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ankitasri20/DSA/tree/master/2404-most-frequent-even-element) |
 | [3467-transform-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/3467-transform-array-by-parity) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ankitasri20/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
