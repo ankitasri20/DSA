@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ankitasri20/DSA/tree/master/1051-height-checker) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitasri20/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ankitasri20/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ankitasri20/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitasri20/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ankitasri20/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitasri20/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitasri20/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankitasri20/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankitasri20/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
