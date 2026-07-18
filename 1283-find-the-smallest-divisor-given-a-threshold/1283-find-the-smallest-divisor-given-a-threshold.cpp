@@ -22,3 +22,6 @@ public:
         return sum;
     }
 };
+
+// TC -- O(n × log(max(nums)))
+// in binary search start bs on 1 to max element when we get the threshold the value that determine the condition the divisor sum is less than equal to threshold there are f f f f  t t t and theb ans lie on last false;
