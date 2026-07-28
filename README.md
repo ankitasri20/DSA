@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ankitasri20/DSA/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/ankitasri20/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ankitasri20/DSA/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/ankitasri20/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ankitasri20/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankitasri20/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitasri20/DSA/tree/master/0977-squares-of-a-sorted-array) |
