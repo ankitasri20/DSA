@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankitasri20/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ankitasri20/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankitasri20/DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/ankitasri20/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ankitasri20/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/ankitasri20/DSA/tree/master/2427-number-of-common-factors) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ankitasri20/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ankitasri20/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ankitasri20/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitasri20/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ankitasri20/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ankitasri20/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ankitasri20/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ankitasri20/DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/ankitasri20/DSA/tree/master/0412-fizz-buzz) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankitasri20/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankitasri20/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ankitasri20/DSA/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
