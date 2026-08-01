@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitasri20/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ankitasri20/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankitasri20/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/ankitasri20/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/ankitasri20/DSA/tree/master/2427-number-of-common-factors) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ankitasri20/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/ankitasri20/DSA/tree/master/2652-sum-multiples) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ankitasri20/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ankitasri20/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitasri20/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2169-count-operations-to-obtain-zero](https://github.com/ankitasri20/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ankitasri20/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Database
 |  |
